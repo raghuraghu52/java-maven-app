@@ -31,7 +31,6 @@
     <plugins>
       <plugin>
         <!-- Build an executable JAR -->
-         <!-- raghava-->
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jar-plugin</artifactId>
         <version>3.2.0</version>
